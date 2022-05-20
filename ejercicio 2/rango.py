@@ -2,7 +2,7 @@
 para calcular el rango de números enteros, obtener la
 cantidad de números que contiene una cifra"""
 
-#output
+#input 
 
 a= int(input("Digite el valor de a:"))
 b= int(input("Digite el valor de b:"))
